@@ -7,5 +7,7 @@ The web portal lists the different advertising campaigns and other necessary det
 
 A client can communicate his current progress by selecting from the drop down in 'My response' where each activity with its start and end date. After admin testifies to it, it is reflected to the ambassadors(Clients are companies who want to advertise in colleges and amabassadors are people who volunteer for doing activities related to advertising) in their web portal.
 
-The code goes inside the htdocs folder.
+The code goes inside the htdocs folder. 
 
+Sample screenshot of the portal is shown below:
+![alt text](https://github.com/arpitsingh26/Grapevine-Web-Portal/blob/master/img/img.png)
